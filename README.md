@@ -16,25 +16,22 @@
 <br />
 <br />
 
-Hi, I'm Aniruddha Choudhury, a Full Stack Senior DataScientist  🚀 from India, Currently working as in 🙍🏽‍♂️ [@Publicis Sapient](https://www.publicissapient.com/) and developing MLops products with all Cloud like GCP,Azure,AWS and productionize the Machine Learning models with Kubeflow,Airflow orchestration along side TFX.   
+Hi, I'm Aniruddha Choudhury, a Full Stack Senior DataScientist  🚀 from India, Currently working as in 🙍🏽‍♂️ <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/ps-logo-NEW.svg"></code> [@Publicis Sapient](https://www.publicissapient.com/) and developing MLops products with all Cloud like GCP,Azure,AWS and productionize the Machine Learning models with Kubeflow,Airflow orchestration along side TFX.   
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻 and playing games 🎮.
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif>
+  <img align="right" alt="GIF" src="https://gfycat.com/calmkeyeidolonhelvum
 
 
 **Talking about Experiement/Achievements:**
 
-- 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
-- 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) [@Mifos Initiative](https://mifos.org/) 
-- 👨‍💻 Software Developer Intern [@AntraxLabs](https://www.antraxlabs.com/)
-- 🌱 Former Lead at Developer Student Club [@DSCIIITL](http://dsciiitl.com/)
-- ⚡️ Co-Founder [Equinox](http://equinox-iiitl.tech/) and [Hackofiesta](https://github.com/hackofiesta)
-- 🤝 Microsoft Student Partner 
-- 🥇 Facebook Deep learning Scholarship Winner
-- :triangular_flag_on_post: Honorable mention at [ICPC'18](https://drive.google.com/file/d/1pNBPt9LTUPkG4xfAa52-Mxe06GZjCeuW/view)
+- 🥇 Former  Data Scientist. from Wells Fargo 👨🏽‍💻 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Wells_Fargo_Bank_logotype_logo_3D.jpg"></code> [@Wells fargo](https://www.wellsfargo.com/)
+- 🎓 Contributor of Kubeflow community 👨🏽‍💼[@Kubeflow](https://www.kubeflow.org/) 
+- 👨‍💻 Former Senior Data Scientist at Incture Technologies<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/incture-technologies_owler_20160227_014455_original.png"></code>[@Incture](https://incture.com/)
+- ⚡️  Techinical Blogger [Medium](https://medium.com/@aniruddha.choudhury94) and [Linkedin](https://www.linkedin.com/in/aniruddha-choudhury-5a34b511b/)
+- 🤝 Certified Data Scientist from Michigan University
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: aniruddha.choudhury94@gmail.com
 
@@ -64,7 +61,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 <a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=Stock-Market-Analysis" />
 </a>
-Z
+
 <a href="https://github.com/aniruddhachoudhury/BERT-Tutorials">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=BERT-Tutorials" />
 </a>
