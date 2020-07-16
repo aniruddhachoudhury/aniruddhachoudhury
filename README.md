@@ -25,7 +25,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate some of my sandwich 🥪.
 
-  <img align="right" alt="GIF" src="https://giphy.com/gifs/CVtNe84hhYF9u>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif>
 
 
 **Talking about Personal Stuffs/Achievements:**
