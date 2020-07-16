@@ -58,13 +58,13 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
 
-⭐️ Recent projects in which I have contributed [GOVINDDIXIT](https://github.com/GOVINDDIXIT)
+⭐️ Recent projects in which I have contributed [ANIRUDDHA](https://github.com/aniruddhachoudhury)
 
 
-<a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
-  <img align="left" src="https://github.com/aniruddhachoudhury/Stock-Market-Analysis" />
+<a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aniruddhachoudhury&repo=Stock-Market-Analysis" />
 </a>
-
+Z
 <a href="https://github.com/RocketChat/Rocket.Chat.Android">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.Android" />
 </a>
