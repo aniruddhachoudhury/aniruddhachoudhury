@@ -48,8 +48,8 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/horizontal-logo-monochromatic-white.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/hM6lnfw8_400x400.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/apple-icon.png></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/AirflowLogo.png</code>
+<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/apple-icon.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/AirflowLogo.png"</code>
 
 ![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=aniruddhachoudhury&show_icons=true&hide_border=true)
 
