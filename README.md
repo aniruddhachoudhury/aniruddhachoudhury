@@ -45,18 +45,18 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1024px-Microsoft_Azure_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1200px-Scikit_learn_logo_small.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Pytorch_logo.png"></code>
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/logo.png"></code>
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg"></code>
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/horizontal-logo-monochromatic-white.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/hM6lnfw8_400x400.jpg"></code>
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/apple-icon.png></code>
+<code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/AirflowLogo.png></code>
 
 ![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=aniruddhachoudhury&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
+:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
 
 ⭐️ Recent projects in which I have contributed [ANIRUDDHA](https://github.com/aniruddhachoudhury)
 
