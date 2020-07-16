@@ -37,11 +37,10 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 &nbsp;
 
-**Languages and Tools:**
+**Languages and Tools and Cloud:**
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/avatar?raw=true"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1024px-Microsoft_Azure_Logo.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1200px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Pytorch_logo.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/logo.png"></code>
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/social_default-1d3b50b1eba4c2b06244425ff0c49570.jpg"></code>
