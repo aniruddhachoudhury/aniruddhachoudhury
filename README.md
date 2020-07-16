@@ -62,7 +62,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 
 <a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.ReactNative" />
+  <img align="left" src="https://github.com/aniruddhachoudhury/Stock-Market-Analysis" />
 </a>
 
 <a href="https://github.com/RocketChat/Rocket.Chat.Android">
