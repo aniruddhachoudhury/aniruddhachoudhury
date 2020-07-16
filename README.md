@@ -22,7 +22,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/1n4FT4KRQkDvK0IO4X/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
 **Talking about Experiement/Achievements:**
