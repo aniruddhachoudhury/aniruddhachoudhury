@@ -54,7 +54,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
 
-⭐️ Recent projects in which I have contributed [ANIRUDDHA](https://github.com/aniruddhachoudhury)
+⭐️ Recent projects in which I have contributed [Aniruddha](https://github.com/aniruddhachoudhury)
 
 
 <a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
