@@ -1,17 +1,14 @@
-### Hey 👋, I'm [Aniruddha!](https://govinddixit.github.io/)
+### Hey 👋, I'm [Aniruddha!](https://github.com/aniruddhachoudhury)
 
 
-<a href="https://twitter.com/GOVINDDIXIT05">
-  <img align="left" alt="Govind Dixit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.linkedin.com/in/aniruddha-choudhury-5a34b511b/">
+  <img align="left" alt="Aniruddha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/govind-dixit-58708413a">
-  <img align="left" alt="Govind's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://instagram.com/aniruddha_chou?igshid=b8q8n59hmpuz">
+  <img align="left" alt="Aniruddha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/govind__dixit">
-  <img align="left" alt="Govind's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://stackoverflow.com/users/8549281/govind-dixit/">
-  <img align="left" alt="Govind's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://stackoverflow.com/users/9318797/aniruddha-choudhury">
+  <img align="left" alt="Aniruddha's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://medium.com/@aniruddha.choudhury94">
   <img align="left" alt="Aniruddha's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
@@ -19,11 +16,11 @@
 <br />
 <br />
 
-Hi, I'm Aniruddha Choudhury, a Full Stack Senior DataScientist 🚀 from India, Currently working as in 🙍🏽‍♂️ [@Headout](https://www.publicissapient.com/) 
+Hi, I'm Aniruddha Choudhury, a Full Stack Senior DataScientist  🚀 from India, Currently working as in 🙍🏽‍♂️ [@Publicis Sapient](https://www.publicissapient.com/) and developing MLops products with all Cloud like GCP,Azure,AWS and productionize the Machine Learning models with Kubeflow,Airflow orchestration along side TFX.   
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻 and playing games 🎮.
 
-I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate some of my sandwich 🥪.
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif>
 
