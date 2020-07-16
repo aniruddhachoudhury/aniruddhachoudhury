@@ -42,9 +42,9 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 
 **Languages and Tools:**
 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/avatar?raw=true"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1024px-Microsoft_Azure_Logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1*WCsqMt85nMP0DvYv0JnkOA.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/aniruddhachoudhury/Credit-Risk-Model/master/1200px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -54,7 +54,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Govind's github stats](https://github-readme-stats.vercel.app/api?username=GOVINDDIXIT&show_icons=true&hide_border=true)
+![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=aniruddhachoudhury&show_icons=true&hide_border=true)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
 
