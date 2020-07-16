@@ -25,7 +25,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
 
-**Talking about Experiement/Achievements:**
+**Talking about Experiences/Achievements:**
 
 - 🥇 Former  Data Scientist. from Wells Fargo 👨🏽‍💻 <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/Wells_Fargo_Bank_logotype_logo_3D.jpg"></code> [@Wells fargo](https://www.wellsfargo.com/)
 - 🎓 Contributor of Kubeflow community 👨🏽‍💼[@Kubeflow](https://www.kubeflow.org/) 
