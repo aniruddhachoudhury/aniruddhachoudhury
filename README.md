@@ -52,9 +52,9 @@ Apart from my research on Artificial intelligence , I enjoy listening music 🎧
 
 ![Aniruddha's github stats](https://github-readme-stats.vercel.app/api?username=aniruddhachoudhury&show_icons=true&hide_border=true)
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
+:pushpin: Star and Fork this [README](https://github.com/aniruddhachoudhury/aniruddhachoudhury) :pencil:
 
-⭐️ Recent projects in which I have contributed [Aniruddha](https://github.com/aniruddhachoudhury)
+💻 Recent projects in which I have contributed in my [gituhb](https://github.com/aniruddhachoudhury)
 
 
 <a href="https://github.com/aniruddhachoudhury/Stock-Market-Analysis">
