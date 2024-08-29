@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Aniruddha Choudhury, a Full Stack Senior DataScientist  🚀 from India, Currently working  in 🙍🏽‍♂️ <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/ps-logo-NEW.svg"></code> [@Publicis Sapient](https://www.publicissapient.com/) and developing MLops products with all Cloud like GCP,Azure,AWS and productionize the Machine Learning models with Kubeflow,Airflow orchestration along side TFX.   
+Hi, I'm Aniruddha Choudhury, a Full Stack Senior DataScientist  🚀 from India, Currently working  in 🙍🏽‍♂️ <code><img height="20" src="https://github.com/aniruddhachoudhury/Credit-Risk-Model/blob/master/ps-logo-NEW.svg"></code> [@American Express](https://www.americanexpress.com/) and developing MLops products with all Cloud like GCP,Azure,AWS and productionize the Machine Learning models with Kubeflow,Airflow orchestration along side TFX.   
 
 Apart from my research on Artificial intelligence , I enjoy listening music 🎧 and traveling 🏖️ and playing X-Boxgames 🎮.
 
